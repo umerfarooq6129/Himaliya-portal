@@ -1,0 +1,17 @@
+.new-record{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 10px;
+}
+
+.new-record button{
+    padding: 0.2rem 2rem;
+    border: none;
+    background: #6610f2;
+    border-radius: 4px;
+}
+.new-record button a{
+    color: white;
+    text-decoration: none ;
+}
